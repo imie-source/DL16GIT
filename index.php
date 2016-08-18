@@ -5,7 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-   <?php 
+   <?php
    require_once("Dog.php");
    require_once("Student.php");
 
@@ -13,8 +13,6 @@
 
     echo "<br/>";
 
-    echo "Woot.";
-
-    ?> 
+    ?>
 </body>
 </html>
