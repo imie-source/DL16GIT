@@ -7,6 +7,7 @@
 <body>
    <?php 
    require_once("Dog.php");
+   require_once("Student.php");
 
     echo "Hello DL16";
 
@@ -17,4 +18,3 @@
     ?> 
 </body>
 </html>
-
