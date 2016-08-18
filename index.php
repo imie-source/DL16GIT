@@ -8,10 +8,9 @@
    <?php
    require_once("Dog.php");
    require_once("Student.php");
+   require_once("World.php");
 
-    echo "Hello DL16";
-
-    echo "<br/>";
+   $dog = new Dog();
 
     ?>
 </body>
