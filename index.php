@@ -6,6 +6,7 @@
 </head>
 <body>
    <?php 
+   require_once("Dog.php");
 
     echo "Hello DL16";
 
